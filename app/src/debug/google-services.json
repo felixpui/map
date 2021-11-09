@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341470155030",
+    "project_id": "august-circle-327407",
+    "storage_bucket": "august-circle-327407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341470155030:android:5d5da97e9b895582498037",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341470155030-pnv1kmp9vs6bp9c4qm8rvqapgf61tphe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4QUx5hNyavY9SnXCcmosyc8ymxu7i4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341470155030-pnv1kmp9vs6bp9c4qm8rvqapgf61tphe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
